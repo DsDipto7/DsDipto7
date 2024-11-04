@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-- 🌱 I’m currently learning **Web development, App development**
+- 🌱 I’m currently learning **Web development, App development, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dipto-saha-06695925a](https://www.linkedin.com/in/dipto-saha-06695925a)
 
